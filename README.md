@@ -1,3 +1,6 @@
+![triangles-download(3)](https://user-images.githubusercontent.com/78074172/155331270-4169f86f-aacf-4efb-ad3e-6d575b479435.svg)
+
+
 ## About Me:
 Hi, I’m @DataSperling a scientist and software developer living in the EU. I speak English
 and German and I’m interested in software development, chem- and bioinformatics (genomics),
