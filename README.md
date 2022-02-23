@@ -1,5 +1,4 @@
-![triangles-download(3)](https://user-images.githubusercontent.com/78074172/155331270-4169f86f-aacf-4efb-ad3e-6d575b479435.svg)
-
+![GH_banner](https://user-images.githubusercontent.com/78074172/155332352-e84f2577-896c-4c7f-b06e-eb2b96f4f47c.png)
 
 ## About Me:
 Hi, I’m @DataSperling a scientist and software developer living in the EU. I speak English
