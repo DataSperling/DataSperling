@@ -6,4 +6,4 @@ Hi, I’m @DataSperling a scientist and software developer living in the EU. I s
 You can contact me @: datasperling@gmail.com
 
 ### Current Project:
-I'm currently working on testing and uploading my data structures from the GTx course CS1332x. When I have free time I translate these to other languages and also work on bioinformatics problems bases on the intersection of genomics, statistics and R programming.
+I'm currently working on testing and uploading my data structures from the GTx course CS1332x. When I have free time I translate these to other languages and also work on bioinformatics problems based on the intersection of genomics, statistics and R programming.
