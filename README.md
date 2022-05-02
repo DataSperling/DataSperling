@@ -6,4 +6,10 @@ Hi, I’m @DataSperling a scientist and software developer living in the EU. I s
 You can contact me @: datasperling@gmail.com
 
 ### Current Project:
-I'm currently working on testing and uploading my data structures from the GTx course CS1332x. When I have free time I translate these to other languages and also work on bioinformatics problems based on the intersection of genomics, statistics and R programming.
+I‘m currently re-writing my data structures from my Data Structures and Algorithms course (GTx: https://www.edx.org/professional-certificate/gtx-data-structures-and-algorithms) using a Test Driven approach. In addition I am revising form the Oracle Certified Java Professional Exam. The repository for my data structures is linked below.
+
+https://github.com/DataSperling/Java-DataStructures
+
+I welcome any advice and or corrections, please let me know if I have made any mistakes! I want my code to be as good as possible.
+
+Happy Coding, DataSperling.
