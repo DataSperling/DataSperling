@@ -11,7 +11,7 @@
 
 
 
-Interests: Intersection of traditional back-end development (Java, Spring, REST, SQL) and data science (Python, R, ML ...) and their application to scientific applications. 
+Interests: Intersection of traditional back-end development (Java, Spring, REST, SQL) and data science (Python, R, ML ...) and their application to scientific computing. 
 
 
 
