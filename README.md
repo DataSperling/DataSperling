@@ -1,11 +1,5 @@
-![banner_2](https://user-images.githubusercontent.com/78074172/189059661-522c66d1-8bac-44cb-bd8e-e1f0b1b3be28.png)
+![banner](https://github.com/DataSperling/DataSperling/assets/78074172/3e24c751-5774-49c4-829d-ec75b2cb7414)
 
-
-
-
-
-	
-	
 	
 	
 
