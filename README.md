@@ -5,7 +5,9 @@
 
 
 
-Interests: Intersection of traditional back-end development (Java, Spring, REST, SQL) and data science (Python, R, ML ...) and their application to scientific computing. 
+### Interests: 
+- Intersection of traditional software development (Java, Spring, REST, SQL) and data science (Python, R, Scala, Spark, CNN) 
+- Application of these technologies to scientific problems.
 
 
 
@@ -15,5 +17,8 @@ Interests: Intersection of traditional back-end development (Java, Spring, REST,
 
 
 
-Current Project: Soundable, a client server application which integrates machine learning to identify audio
-samples.
+### Current Projects:
+- soundable: Client server application which integrates machine learning to identify real-world audio samples.
+- soundable-ML: CNN pipeline to develop AI models for audio recognition suitable for integration into REST-API's. 
+- soundable-FX: JavaFX client for preprocessing audio data for efficient onward transmission.
+- soundable-API: REST API to serve, store and search data for soundable-FX client.
